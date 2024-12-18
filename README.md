@@ -5,4 +5,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=typ49&show_icons=true&layout=compact&theme=blue-green&hide=jupyter%20notebook"/>
 </a>
 
-![Statistiques AOC](https://aoc-stats.vercel.app/api/card?username=typ49&totalStars=64&currentYearStars=12&currentDay=6&completedDays=6&currentYear=2024)
+![Statistiques AOC](https://aoc-stats.vercel.app/api/card?username=typ49&totalStars=66&currentYearStars=14&currentDay=19&completedDays=7&currentYear=2024)
